@@ -4,7 +4,7 @@ sxtwl 寿星天文历 python扩展
 
 许建伟先生根据天文算法推算农历,提供了精准的农历年历表,将古代真实日历推算到公元前104年（与实历相符），公元前104年以前及1960年以后的农历使用现代算法.
 
-由于原程序使用js编码,[中华农历论坛](https://github.com/yuangu/sxtwl_cpp)的坛友lifulinghan [github](https://github.com/yuangu/sxtwl_cpp) 根据js代码实现了c++版本.
+由于原程序使用js编码,[中华农历论坛](https://github.com/yuangu/sxtwl_cpp)的坛友lifulinghan [[github]](https://github.com/yuangu/sxtwl_cpp) 根据js代码实现了c++版本.
 
 为了使用方便,我就将c++版本封装为python版.
 
