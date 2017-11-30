@@ -6,7 +6,8 @@ sxtwl 寿星天文历 python扩展
 
 由于原程序使用js编码,[中华农历论坛](https://github.com/yuangu/sxtwl_cpp)的坛友lifulinghan [[github]](https://github.com/yuangu/sxtwl_cpp) 根据js代码实现了c++版本.
 
-为了使用方便,我就将c++版本封装为python版.
+为了使用方便,我就将c++版本封装为python版.需要安装[[swig]](www.swig.org)
+
 
 * 使用方法:
 ```Bash
